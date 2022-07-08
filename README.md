@@ -8,8 +8,8 @@ The `index.html` file contains HTML tags and appropriate classes to use for the 
 
 The `css/styles.css` file is use in accord with typography methods applied to the properties of classes and elements to build a a nutrition label webpage. CSS is used to to style text, adjust line height, and position text on the webpage to make it appealing.
 
-The page can be viewed here: [Photo Gallery](https://remicoding.github.io/nutrition-label-page/)
+The page can be viewed here: [Nutrition Label](https://remicoding.github.io/nutrition-label-page/)
 
 For your convenience, here is a screenshot of the page:
 
-![Photo Gallery Screenshot](img/nutrition-label-img.png)
+![Nutrition Label Screenshot](img/nutrition-label-img.png)
